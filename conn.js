@@ -865,9 +865,7 @@ _Sanksi : Block permanen_
 *ROOM ID : ${id_rom}*`
 var buttonMessage = {
 text: tulis_pesan,
-footer: 'klik button untuk menghapus sesi chat
-
-@Rexverz Developer',
+footer: 'klik button untuk menghapus sesi chat',
 buttons: [
 { buttonId: '#stopchat', buttonText: {displayText: '️𝗦𝗧𝗢𝗣'}, type: 1}
 ],
